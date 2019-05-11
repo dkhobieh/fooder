@@ -1,0 +1,38 @@
+/*body {*/
+/*    background-color: purple;*/
+/*}*/
+
+.thumbnail img {
+    width: 100%;
+}
+
+#per {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 12px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.title {
+    text-align: center;
+}
+
+.form {
+    width: 30%;
+    margin: 45px auto;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
